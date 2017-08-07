@@ -33,7 +33,7 @@ Output will be to .csv with averages of data input, listed in the following orde
 
 [8] Away: goals against per shot against.
 
-Example:
+<b>Example:</b>
 
 Liverpool,17.4211,0.136,7.4211,0.1277,16.1579,0.1075,8.7368,0.1446
 
