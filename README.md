@@ -1,5 +1,14 @@
 # footballstats
 
+Python3
+
+Gets data from football-data.co.uk and outputs average shots and goals to .csv.
+
+Instructions:
+ - Download and run FOOTBALLSTATS.py
+ - Downloaded data and generated stats (.csv-files) will show in same folder as script.
+ 
+
 Output will be to .csv with averages of data input, listed in the following order per line:
 
 0: Team
