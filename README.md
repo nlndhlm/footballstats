@@ -1,12 +1,13 @@
 # footballstats
 
-Python3
+for python3
 
-Dependencies: csv (built-in)
+<b>Dependencies:</b> csv (built-in)
 
 Gets data from football-data.co.uk and outputs average shots and goals for and against to .csv.
 
-NOTE: In order to work on .csv-files with no 'referee'-column, line indexes must be tweaked to fit in collectstats.py.
+<b>NOTE:</b> In order to work on .csv-files with no 'referee'-column, line indexes must be tweaked to fit in collectstats.py.
+Works on English leagues, not including Conference.
 
 Instructions:
  - Download all files to the same folder, and run FOOTBALLSTATS.py
