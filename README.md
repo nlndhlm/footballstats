@@ -5,7 +5,7 @@ Python3
 Gets data from football-data.co.uk and outputs average shots and goals for and against to .csv.
 
 Instructions:
- - Download and run FOOTBALLSTATS.py
+ - Download all files to the same folder, and run FOOTBALLSTATS.py
  - Downloaded data and generated stats (.csv-files) will show in same folder as script.
  
 
