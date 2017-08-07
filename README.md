@@ -11,15 +11,15 @@ Instructions:
 
 Output will be to .csv with averages of data input, listed in the following order per line:
 
-[0]: Team
-[1]: Home shots per game
-[2]: Home goals per shot (p(shot=goal))
-[3]: Home shots against per game
-[4]: Home goals against per shot against(p(shot against=goal against))
-[5]: Away shots per game
-[6]: Away goals per shot
-[7]: Away shots against per game
-[8]: Away goals against per shot against
+[0]: Team.
+[1]: Home shots per game.
+[2]: Home goals per shot (p(shot=goal)).
+[3]: Home shots against per game.
+[4]: Home goals against per shot against(p(shot against=goal against)).
+[5]: Away shots per game.
+[6]: Away goals per shot.
+[7]: Away shots against per game.
+[8]: Away goals against per shot against.
 
 Example:
 
