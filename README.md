@@ -24,5 +24,5 @@ Output will be to .csv with averages of data input, listed in the following orde
 Example:
 Liverpool,17.4211,0.136,7.4211,0.1277,16.1579,0.1075,8.7368,0.1446
 
-Liverpool has an average of 17.4211 times per game.
+Liverpool has an average of 17.4211 shots per game.
 Liverpool scores on average 0.136 goals for every shot they take.
