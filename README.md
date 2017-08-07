@@ -1,6 +1,7 @@
 # footballstats
 
 Python3
+Dependencies: csv (built-in)
 
 Gets data from football-data.co.uk and outputs average shots and goals for and against to .csv.
 
